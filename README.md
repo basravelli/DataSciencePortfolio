@@ -1,4 +1,4 @@
-Evaluate my progress reposatory: _"freemium 7 - life area's"_ 
+Evaluate my progress reposatory: _"freemium 7 - life area's"_ [[Go there...](https://www.basravelli.nl/freemium)]
 
 # Data Science Portfolio
 A collection of selected data science projects for recruiters, demonstrating my skill sets, knowledge, and my interests.
