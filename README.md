@@ -1,7 +1,4 @@
-Discover my "8 life area's" reposatory:  
-1. A personal track-record
-2. An unique dataset
-3. Aboud adding value [visit reposatory]
+Evaluate my progress reposatory: _"freemium 7 - life area's"_ 
 
 # Data Science Portfolio
 A collection of selected data science projects for recruiters, demonstrating my skill sets, knowledge, and my interests.
