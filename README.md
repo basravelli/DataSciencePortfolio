@@ -8,10 +8,10 @@ Identity and general purpose in terms of who I am and where I am going
 
 # Identity (2024)
 ## Domain: 
-- Mental health, business administration, and international trade (Degree)
+- Economy, business administration, and international trade (Degree)
 
 ## Purpose:
-Integrated projects of predictive value
+Integration projects of predictiing values
 
 ## Mission: 
 1. Microsoft Azure Data Fundamentals DP-900 Specialization (Pending)
