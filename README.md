@@ -1,4 +1,4 @@
-Evaluate my progress reposatory: _"freemium 7 - life area's"_ [[Go there...](https://www.basravelli.nl/freemium)]
+Evaluate my progress reposatory: _"Succeed in all life area's at once"_ [[Go there...](https://www.basravelli.nl/)]
 
 # Contents
 Identity and general purpose in terms of who I am and where I am going
@@ -11,7 +11,7 @@ Identity and general purpose in terms of who I am and where I am going
 - Economy, business administration, and international trade (Degree)
 
 ## Purpose:
-Integration projects of predictiing values
+Integration projects
 
 ## Mission: 
 1. Microsoft Azure Data Fundamentals DP-900 Specialization (Pending)
@@ -21,10 +21,7 @@ Integration projects of predictiing values
 ## Focus: 
 ### Acquiring skill sets 
 - Procedural skills (Azure): SQL, DAX, and Python (Doing)
-- Declarative knowledge: Logarithmic scale & tick intervals (Doing)
-
-# Terms and definitions
-
+- Declarative knowledge: Logarithmic scale & tick intervals (learning)
 
 
 
